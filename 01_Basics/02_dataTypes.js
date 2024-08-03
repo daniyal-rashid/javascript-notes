@@ -5,7 +5,7 @@
 console.log(3 + 3);
 console.log("Hitesh"); // code readability should be high
 
-// Data Types
+// Data Types in js
 /*
 number => e.g: 1, 34, 999 ...  (range 2 to power 53)
 bigint => use to store bigger numbers
